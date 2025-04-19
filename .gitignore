@@ -1,0 +1,10 @@
+*.pyc
+output/
+venv/
+models/
+eval/
+images/
+generated_examples/
+datasets/
+*/__pycache__
+.vscode
